@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^2.1.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-router-dom": "^5.1.2",
@@ -53,5 +54,5 @@
       "git add"
     ]
   },
-  "homepage": "https://hardrye.github.io/goit-react-hw-04-pet-store/"
+  "homepage": "https://hardrye.github.io/goit-react-hw-04-pet-store"
 }
