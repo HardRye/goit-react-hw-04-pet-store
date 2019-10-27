@@ -1,0 +1,50 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding-left: 100px;
+}
+
+.returnButton {
+  border: 3px solid #444;
+  text-transform: uppercase;
+  font-weight: 800;
+  background-color: #444;
+  color: white;
+}
+
+.returnButton:hover,
+.returnButton:focus {
+  cursor: pointer;
+  background-color: #fff;
+  color: #fe6348;
+  border-color: #fe6348;
+}
+
+.title {
+  font-size: 24px;
+}
+
+.infoWrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image {
+  max-width: 400px;
+}
+
+.infoContainer {
+  padding-left: 50px;
+}
+
+.infoTitle {
+  font-weight: 800;
+}
+
+.infoText {
+  font-weight: 400;
+}
+
+.description {
+  line-height: 1.5;
+}

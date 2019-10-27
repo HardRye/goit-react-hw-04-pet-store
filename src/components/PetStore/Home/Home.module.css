@@ -1,0 +1,11 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.title {
+  display: block;
+  width: 100%;
+  line-height: 80vh;
+  text-align: center;
+}
